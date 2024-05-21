@@ -1,0 +1,8 @@
+pda=int(input("introduce tu altura: "))
+
+pdaños=int(input("Introduce tu edad: "))
+
+if pda >= 120 and pdaños >= 12:
+    print("Puedes subir a la atraccion ")
+else:
+    print("No puedes subir a la atraccion")
